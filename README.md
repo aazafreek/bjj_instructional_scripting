@@ -1,4 +1,4 @@
-<img title="" src="./imgs/logo.jpg" alt="Logo" width="92" data-align="center">
+<img title="" src="./imgs/logo.jpg" alt="Logo" width="92" align="center">
 
 # Fabric Instructionals for Jiu-Jitsu Content Creation
 
