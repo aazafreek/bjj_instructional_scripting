@@ -2,7 +2,6 @@
    <img title="" src="./imgs/logo.jpg" alt="Logo" width="92">
 </div>
 
-
 # Fabric Instructionals for Jiu-Jitsu Content Creation
 
 <img title="" src="./imgs/capture_D12_06_24_H19_46_36.png" alt="Process Overview" width="776" data-align="center">
@@ -35,6 +34,44 @@ Brazilian Jiu-Jitsu instructional videos are often hours long, packed with detai
 - **Organization is Key**: This tool organizes all that information into clear chapters, subchapters, and diagrams, making it easier to review and internalize.
 
 By converting these videos into structured guides, this project aims to make studying BJJ more effective and less tedious.
+
+---
+
+## How it works
+
+- **MP4 videos** are processed to extract subtitles using **gen-subs**, generating `.srt` subtitle files.
+
+- The subtitles are cleaned and simplified using Bash scripting, resulting in plain-text subtitles without formatting.
+
+- A **custom GPT-based pattern** transforms the plain-text subtitles into a structured instructional guide written in Markdown format. This includes clear chapters and subchapters, improving the organization of the content.
+
+- Another pattern compiles individual Markdown guides from each video into a **comprehensive final guide**, combining all instructional material into a single resource.
+
+- A separate pattern analyzes the guides and extracts key information, converting it into **diagrams** with an accompanying glossary for better visualization and context.
+
+- The structured information is then processed into **simplified HTML**, making it accessible for web viewing.
+
+- An additional pattern further refines the simplified HTML into a more polished and **stylistically enhanced HTML file**, ensuring a professional and visually appealing presentation.
+
+- Independently, Bash scripting extracts the diagrams from the guide and converts them into **individual PDFs**, enabling easy distribution and reference.
+
+---
+
+### **Final Output**
+
+The project outputs include:
+
+1. **Original videos (MP4 format)** for reference.
+2. **Subtitle files (.srt)** for each video.
+3. **Markdown guides** for each instructional video.
+4. A **combined HTML guide** with enhanced styling for web sharing.
+5. **Diagrams in PDF format** for visualization and study.
+
+This structured pipeline transforms raw video content into multiple organized, shareable formats, making it easy to learn, reference, and share Brazilian Jiu-Jitsu techniques.
+
+
+
+![Functioning](imgs/diagram_bjj.svg)
 
 ---
 
