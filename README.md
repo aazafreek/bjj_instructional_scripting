@@ -87,6 +87,7 @@ We also encourage users to share any improved or optimized patterns they develop
 
 - This project relies on **GPT-based patterns** to process content, which may sometimes produce inconsistent results. While the tool is designed to automate and simplify tasks, occasional manual adjustments might be necessary.
 - **Execution can be slow**: Processing videos, generating subtitles, and structuring guides takes time. Please be patient and allow the script to complete each step before interrupting or closing the process.
+- Tested only on **Linux (Ubuntu)**; it’s not compatible with Windows at the moment.
 
 ---
 
