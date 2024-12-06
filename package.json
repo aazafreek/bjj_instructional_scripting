@@ -1,0 +1,19 @@
+{
+  "name": "8c1b27a0-88be-49b4-8011-ad14516acef4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^11.4.2",
+    "gen-subs": "^1.1.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-mermaid-pro": "^2.2.5",
+    "mermaid2html": "^0.1.0",
+    "npx": "^10.2.2"
+  }
+}

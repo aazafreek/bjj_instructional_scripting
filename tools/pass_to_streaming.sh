@@ -1,0 +1,3 @@
+# Sin terminar
+ffmpeg -i TheFastestWayToIncreaseYourSubmissionPercentageNo_gibyJohnDanaher1.mp4 -movflags faststart -acodec copy -vcodec copy TheFastestWayToIncreaseYourSubmissionPercentageNo_gibyJohnDanaher1_streaming.mp4
+
