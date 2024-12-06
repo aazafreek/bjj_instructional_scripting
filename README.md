@@ -71,7 +71,7 @@ This structured pipeline transforms raw video content into multiple organized, s
 
 
 
-![Functioning](imgs/diagram_bjj.svg)
+![Functioning](imgs/diagram_bjj.drawio.svg)
 
 ---
 
