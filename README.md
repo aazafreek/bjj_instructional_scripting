@@ -180,7 +180,7 @@ Execute the script with the directory containing your MP4 files:
 
 Here’s an example of what the tool can generate: a complete instructional guide with Markdown, HTML, and diagrams, all tied to the original video content.
 
-![Video ejemplo](imgs/video_ejemplo.mp4)
+![Video ejemplo](imgs/video_ejemplo.gif)
 
 ---
 
