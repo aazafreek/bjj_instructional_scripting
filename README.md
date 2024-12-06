@@ -1,4 +1,7 @@
-<img title="" src="./imgs/logo.jpg" alt="Logo" width="92" align="center">
+<div align="center">
+   <img title="" src="./imgs/logo.jpg" alt="Logo" width="92">
+</div>
+
 
 # Fabric Instructionals for Jiu-Jitsu Content Creation
 
@@ -177,7 +180,7 @@ Execute the script with the directory containing your MP4 files:
 
 Here’s an example of what the tool can generate: a complete instructional guide with Markdown, HTML, and diagrams, all tied to the original video content.
 
-![]()
+![Video ejemplo](imgs/video_ejemplo.mp4)
 
 ---
 
