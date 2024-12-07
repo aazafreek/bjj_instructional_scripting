@@ -27,25 +27,25 @@ pwd_data_dir=$(pwd)/"$instructional_dir"data
 
 # Primero creamos los subtitulos para el video
 log_info "Transforming video to srt subtitules"
-#$pwd_tools_dir/create_subtitles.sh $pwd_videos_dir $pwd_data_dir
+$pwd_tools_dir/create_subtitles.sh $pwd_videos_dir $pwd_data_dir
 cd $actual_pwd
 
 # Limpiamos los datos de subtitulos con el gpt
 log_info "Cleaning subtitle data for fabric input"
-#$pwd_tools_dir/clean_subtitles.sh $pwd_data_dir
+$pwd_tools_dir/clean_subtitles.sh $pwd_data_dir
 cd $actual_pwd
 
 # Convertimos los datos limpios a explicaciones de gpts
 log_info "Converting cleaned subtitles to markdown explanations with fabric"
 [ ! -d $instructional_dir/explanations ] && mkdir -p $instructional_dir/explanations
 pwd_explanation_dir=$(pwd)/"$instructional_dir"explanations
-#$pwd_tools_dir/create_explication.sh $pwd_data_dir  $pwd_explanation_dir
+$pwd_tools_dir/create_explication.sh $pwd_data_dir  $pwd_explanation_dir
 
 log_info "Converting all explanation in a final markdown explanation with fabric"
-#cat $pwd_explanation_dir/*_explanation.md | fabric -sp juntar_explicaciones_md_bjj > $pwd_explanation_dir/final_explanation.md
+cat $pwd_explanation_dir/*_explanation.md | fabric -sp juntar_explicaciones_md_bjj > $pwd_explanation_dir/final_explanation.md
 
 log_info "Converting final explanation in a mermaid diagrams markdown"
-#cat $pwd_explanation_dir/final_explanation.md | fabric -sp explanation_to_diagram_bjj > $pwd_explanation_dir/diagrams.md
+cat $pwd_explanation_dir/final_explanation.md | fabric -sp explanation_to_diagram_bjj > $pwd_explanation_dir/diagrams.md
 
 log_info "Markdown to html conversion"
 [ ! -d $instructional_dir/html ] && mkdir -p $instructional_dir/html
