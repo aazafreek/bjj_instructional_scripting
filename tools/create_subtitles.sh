@@ -25,6 +25,7 @@ unset $0
 
 for file in $srt_files; do
 	npx gen-subs for $file &> $file.log && echo -e  "\e[32m[INFO]\e[0m Created subtitles for $file."
+done
 # echo $srt_files | xargs -n 1 -P 4 bash -c 'npx gen-subs for "$0" &> $0.log && echo -e "\e[32m[INFO]\e[0m Created subtitles for $0."'
 
 # Comprobamos los archivos que no se han podido crear
