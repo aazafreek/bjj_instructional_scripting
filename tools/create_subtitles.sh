@@ -11,24 +11,27 @@ log_error() {
 video_dir=$1
 data_dir=$2
 
-archivos=$(ls $video_dir | grep '.mp4')
+video_files=$(ls $video_dir | grep '.mp4')
 cd $video_dir
-archivos_sin_srt=""
-for archivo in $archivos; do
-	nombre_archivo=$( echo $archivo | cut -d'.' -f1 )
-	if [ ! -f "$data_dir/$nombre_archivo.srt" ] && [ ! -f "$video_dir/$nombre_archivo.srt" ]; then
-		archivo_sin_srt="$archivo $archivo_sin_srt"
+srt_files=""
+for file in $video_files; do
+	file_name=$( echo $file | cut -d'.' -f1 )
+	if [ ! -f "$data_dir/$file_name.srt" ] && [ ! -f "$video_dir/$file_name.srt" ]; then
+		srt_files="$file $srt_files"
 	fi
 done
 
 unset $0
-echo $archivo_sin_srt | xargs -n 1 -P 4 bash -c 'npx gen-subs for "$0" &> $0.log && echo -e "\e[32m[INFO]\e[0m Created subtitles for $0."'
+
+for file in $srt_files; do
+	npx gen-subs for $file &> $file.log && echo -e  "\e[32m[INFO]\e[0m Created subtitles for $file."
+# echo $srt_files | xargs -n 1 -P 4 bash -c 'npx gen-subs for "$0" &> $0.log && echo -e "\e[32m[INFO]\e[0m Created subtitles for $0."'
 
 # Comprobamos los archivos que no se han podido crear
-for archivo in $archivo_sin_srt; do
-	nombre_archivo=$( echo $archivo | cut -d'.' -f1 )
-	if [ ! -f "$data_dir/$nombre_archivo.srt" ] && [ ! -f "$video_dir/$nombre_archivo.srt" ]; then
-		log_error "ERROR: Enable to create subtitles for $nombre_archivo"
+for file in $srt_files; do
+	file_name=$( echo $file | cut -d'.' -f1 )
+	if [ ! -f "$data_dir/$file_name.srt" ] && [ ! -f "$video_dir/$file_name.srt" ]; then
+		log_error "ERROR: Enable to create subtitles for $file_name"
 	fi
 done
 
