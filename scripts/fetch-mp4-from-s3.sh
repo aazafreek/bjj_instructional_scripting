@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -x
 S3_BUCKET=$1
 S3_FOLDER=$2
 DESTINATION_FOLDER=$3
