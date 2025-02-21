@@ -39,7 +39,7 @@ cd $actual_pwd
 log_info "Converting cleaned subtitles to markdown explanations with fabric"
 [ ! -d $instructional_dir/explanations ] && mkdir -p $instructional_dir/explanations
 pwd_explanation_dir=$(pwd)/"$instructional_dir"explanations
-$pwd_tools_dir/create_explication.sh $pwd_data_dir  $pwd_explanation_dir
+$pwd_tools_dir/create_explanation.sh $pwd_data_dir  $pwd_explanation_dir
 
 log_info "Converting all explanation in a final markdown explanation with fabric"
 cat $pwd_explanation_dir/*_explanation.md | fabric -sp juntar_explicaciones_md_bjj > $pwd_explanation_dir/final_explanation.md
