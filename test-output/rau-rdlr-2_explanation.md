@@ -3,93 +3,90 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Basic Concepts](#basic-concepts)
-3. [Inverting from RDLR](#inverting-from-rdlr)
-4. [Back Takes](#back-takes)
-5. [50/50 Entries](#5050-entries)
-6. [Leg Lock Transitions](#leg-lock-transitions)
-7. [Troubleshooting Common Issues](#troubleshooting)
+3. [Inverted RDLR](#inverted-rdlr)
+4. [Transitions](#transitions)
+5. [Back Takes](#back-takes)
+6. [Submissions](#submissions)
 
 ## Introduction
-This guide covers advanced concepts and techniques from the Reverse De La Riva (RDLR) guard position. We'll explore various attacks, transitions, and ways to deal with common reactions from your opponent.
+This guide covers the Reverse De La Riva (RDLR) guard, focusing on inversions, transitions, and attacks. The RDLR is a powerful open guard position that offers many offensive opportunities.
 
 ## Basic Concepts
-The RDLR guard is a powerful position that allows for various attacks and transitions. However, proper understanding of positioning and control is crucial for success.
+The RDLR guard involves hooking your outside leg behind your opponent's lead leg while controlling their far leg. Key points:
 
-Key points:
-- Control opponent's far leg
-- Maintain hip connection
-- Keep proper angle relative to opponent
-- Be ready to adapt to opponent's reactions
+- Hook placement behind opponent's knee
+- Control of opponent's far leg
+- Hip positioning and angle
+- Managing distance and preventing passes
 
-## Inverting from RDLR
-When inverting from RDLR, consider:
+## Inverted RDLR
+When inverting from RDLR:
 
-1. Initial Setup:
-- Hook opponent's far leg with your outside foot
-- Control their near leg with your inside hook
-- Grip their pants or ankle
+1. Control opponent's lead leg
+2. Place outside foot on hip
+3. Invert while maintaining leg control
+4. Keep tight to prevent space
+5. Be ready for counter-attacks
 
-2. Inversion Mechanics:
-- Roll towards your shoulder
-- Keep legs connected during transition
-- Maintain control of opponent's legs
+Common mistakes:
+- Inverting without proper control
+- Creating too much space
+- Poor hip positioning
 
-3. Common Mistakes:
-- Losing leg control during inversion
-- Exposing your back
-- Inverting without proper grips
+## Transitions
+
+### To 50/50
+1. Control opponent's leg
+2. Invert through RDLR
+3. Enter 50/50 position
+4. Maintain tight control
+5. Look for heel hook opportunities
+
+### To Back Control
+1. Invert from RDLR
+2. Control far leg
+3. Come up on shoulder
+4. Take the back
+5. Secure position with hooks
 
 ## Back Takes
-Several methods to take the back from RDLR:
 
-1. Standard Back Take:
-- Control far leg
-- Invert while maintaining leg control
-- Transition to back control position
+### Standard Back Take
+1. Control opponent's leg
+2. Invert and rotate
+3. Come up on shoulder
+4. Secure back control
+5. Insert hooks
 
-2. Modified Back Take:
-- Use underhook on far leg
-- Roll through while controlling opponent's hips
-- Secure seat belt grip
+### Modified Back Take
+1. Use RDLR hook
+2. Control far leg
+3. Technical stand-up
+4. Take the back
+5. Establish control
 
-## 50/50 Entries
-Transitioning to 50/50 position:
+## Submissions
 
-1. Direct Entry:
-- Invert while controlling legs
-- Switch hip position
-- Enter 50/50 configuration
+### Heel Hooks
+1. Enter 50/50
+2. Control leg alignment
+3. Secure heel
+4. Apply finishing pressure
+5. Be ready for counters
 
-2. Defensive Entry:
-- Used when opponent stands
-- Control their posture
-- Enter 50/50 while protecting yourself
+### Knee Bars
+1. Control leg position
+2. Create angle
+3. Apply pressure
+4. Maintain control
+5. Follow up options
 
-## Leg Lock Transitions
-Various leg lock opportunities:
+## Summary
+The RDLR guard offers multiple attacking options through inversions, transitions, and submissions. Key to success is maintaining control while executing techniques and being ready for counter-attacks.
 
-1. Inside Heel Hook:
-- Enter through 50/50
-- Control opponent's leg
-- Attack submission
-
-2. Outside Heel Hook:
-- Transition from back control
-- Secure leg positioning
-- Apply submission
-
-## Troubleshooting Common Issues
-
-1. Opponent Standing:
-- Maintain leg control
-- Use butterfly hook
-- Consider 50/50 entry
-
-2. Losing Position:
-- Re-establish hooks
-- Return to basic position
-- Look for alternative attacks
-
-Remember: Success with RDLR requires understanding of positioning, timing, and opponent reactions. Practice these concepts systematically and focus on maintaining control throughout transitions.
-
-This guide provides a framework for developing your RDLR game. Each section can be expanded based on individual needs and skill level.
+Remember to:
+- Maintain tight control
+- Use proper mechanics
+- Stay safe when inverting
+- Have follow-up options ready
+- Practice transitions regularly

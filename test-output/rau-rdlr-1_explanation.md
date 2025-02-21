@@ -4,87 +4,80 @@
 1. [Introduction](#introduction)
 2. [Basic Position](#basic-position)
 3. [The Hook](#the-hook)
-4. [Control Points](#control-points)
-5. [Inverting Techniques](#inverting-techniques)
-   - [Underhook Inversion](#underhook-inversion) 
+4. [Key Concepts](#key-concepts)
+5. [Inversion Techniques](#inversion-techniques)
+   - [Underhook Inversion](#underhook-inversion)
    - [Overhook Inversion](#overhook-inversion)
-   - [Off-Balancing to Invert](#off-balancing-to-invert)
+   - [Standing vs Kneeling](#standing-vs-kneeling)
 6. [Defensive Options](#defensive-options)
-7. [Advanced Techniques](#advanced-techniques)
+7. [Advanced Concepts](#advanced-concepts)
 
 ## Introduction
-
-The Reverse De La Riva (RDLR) guard is one of the most dynamic and effective open guard positions in Brazilian Jiu-Jitsu. It offers numerous attacking options including leg attacks, back takes, and sweeps. This guide will cover the fundamental principles and techniques of the position.
+The Reverse De La Riva (RDLR) guard is a dynamic position that offers multiple attacking options including leg attacks, back takes, and sweeps. It's considered a medium-range guard that works well in both gi and no-gi situations.
 
 ## Basic Position
-
-The RDLR is considered a medium-range guard position. The key points for establishing the basic position are:
-
-1. Your outside leg hooks behind your opponent's lead leg
-2. Your inside knee should be positioned against their knee
-3. Maintain control of their lead leg with grips
-4. Keep your elbow tight and inside their knee
-5. Your free foot can post on their hip or shoulder
+The basic RDLR position involves:
+- Your outside leg hooking behind your opponent's lead leg
+- Your inside foot positioned on their hip or in their bicep
+- Maintaining control of their lead leg with your arms
+- Keeping your knee aligned with their knee for optimal control
 
 ## The Hook
+While the hook is part of the position, the key focus should be on:
+- Knee-to-knee alignment rather than just the hook
+- Maintaining inside position with your knee
+- Using the hook to control and off-balance your opponent
+- Adapting the hook depth based on your opponent's stance
 
-While the hook is part of the position, the most important aspect is the knee positioning rather than the hook itself. Key details:
+## Key Concepts
+1. Frame Management:
+   - Keep your elbow tight to your knee
+   - Maintain strong frames to prevent passing
+   - Use your forearm in the armpit for control
 
-- Focus on getting your knee to their knee
-- This allows you to circle around and attack
-- The hook will naturally come as you maintain knee position
-- Don't worry too much about forcing a deep hook
+2. Distance Control:
+   - Control the space between you and your opponent
+   - Prevent them from establishing strong passing pressure
+   - Use frames to maintain optimal distance
 
-## Control Points
-
-The main control points in RDLR are:
-
-1. The knee-to-knee connection
-2. Grip on the lead leg (either overhook or underhook)
-3. Secondary grip options:
-   - Cross lapel grip
-   - Sleeve control
-   - Ankle grip
-4. Foot positioning on hip/shoulder
-
-## Inverting Techniques
+## Inversion Techniques
 
 ### Underhook Inversion
-1. Establish underhook on opponent's lead leg
-2. Create space with knee shield
-3. Slide knee across to make room
+1. From RDLR position, secure an underhook on opponent's leg
+2. Create space by sliding your knee through
+3. Lift hips off the mat
 4. Invert while maintaining leg control
-5. Come up on far hip to attack
+5. Come up on your side to complete the move
 
 ### Overhook Inversion
-1. Secure deep overhook on lead leg
-2. Off-balance opponent backward
-3. Invert while pulling leg across body
-4. Keep tight connection throughout movement
-5. Come up to attacking position
+1. Maintain overhook control on opponent's leg
+2. Grip their heel with fingers wrapped around
+3. Use your knee to turn their leg outward
+4. Off-balance them backward
+5. Invert while maintaining control
 
-### Off-Balancing to Invert
-1. Use frames to create space
-2. Hook behind far hamstring
-3. Off-balance opponent laterally
-4. Invert as they lose balance
-5. Maintain leg control throughout
+### Standing vs Kneeling
+- Standing opponent: Focus on breaking their posture first
+- Kneeling opponent: Easier to execute inversions
+- Adjust grips and control based on opponent's position
 
 ## Defensive Options
+When caught in tight pressure:
+1. Frame with elbows close to knees
+2. Keep bicep connected to inner thigh
+3. Maintain closed space between elbow and knee
+4. Use cross-lapel grip for additional control
+5. Look for opportunities to re-establish position
 
-When opponent has strong pressure:
-1. Keep elbows tight to knees
-2. Use frames to maintain space
-3. Look for opportunities to off-balance
-4. Be ready to transition to other guards
-5. Never let them separate your elbow from your knee
+## Advanced Concepts
+1. Off-balancing:
+   - Use knee position to break opponent's balance
+   - Create space for inversions and attacks
+   - Combine with grips for maximum effect
 
-## Advanced Techniques
+2. Transitional Movement:
+   - Flow between different variations
+   - Chain attacks together
+   - Maintain constant pressure and control
 
-1. Lasso transitions
-2. Combination attacks
-3. Counter-attacks against passing attempts
-4. Chain attacks together
-5. Creating and maintaining angles
-
-The key to success with RDLR is maintaining proper positioning and being ready to chain techniques together as opportunities present themselves. Focus on controlling your opponent's weight distribution and movement while keeping yourself safe.
+_This guide covers the fundamental aspects of the Reverse De La Riva guard. Practice these concepts progressively, starting with basic positions before moving to more advanced techniques._
