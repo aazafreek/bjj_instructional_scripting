@@ -21,8 +21,6 @@ for file in $video_files; do
 	fi
 done
 
-unset $0
-
 for file in $file_names; do
 	npx gen-subs for $file.mp4 && echo -e  "\e[32m[INFO]\e[0m Created subtitles for $file."
 done
