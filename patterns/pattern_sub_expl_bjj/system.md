@@ -13,6 +13,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - You have to add the necessary explanations to the text for the reader to understand the content.
 - It must be easy to read and understand.
 - It must be understandable without the need of the video content.
+- Extrapolate move explanations with additional jiu jitsu knowledge when possible.
 - You must speak like a teacher, so you have to be clear and objective in your explanations.
 - After each chapter, you have to add a summary of the content.
 - You have to be as extensive as necessary to explain the content.
